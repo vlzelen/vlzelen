@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vlzelen
-- 👀 I’m interested in Cybersecurity+ and Information Security
+- 👀 I’m interested in Cybersecurity and Information Security
 - 💻 I’m currently studying Bachelor of Science in Cybersecurity and Information Assurance
 All of my public repositories, including my blog and notes as well as any code for ongoing projects, will be located here.
 
