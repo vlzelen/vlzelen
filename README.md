@@ -1,16 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m @vlzelen!<br>👀 I’m interested in Cybersecurity and Information Security.<br>📖 I’m recently graduted with a Bachelor of Science in Cybersecurity and Information Assurance.<br>💻I'm currently working as a Technical IT Support Specialist.<br><br>All of my public repositories, including my blog and notes as well as any code for ongoing projects, will be located here.
+# 💫 Vlad Zelenskiy
+👋 Hi, I’m Vlad<br>👀 I’m interested in Cybersecurity and Information Security.<br>📖 Graduated with a Bachelor of Science in Cybersecurity and Information Assurance.<br>💻I'm working as a System Administrator.<br><br>This portfolio reflects my practical experience in system administration, identity management, endpoint support, and hands on security labs focused on building and securing real world environments.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vladzelenskiy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vzel@duck.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladzelenskiy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vlad@vladtech.me) 
 
 # 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vlzelen&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Cybersecurity](https://img.shields.io/badge/cybersecurity-brightgreen?style=for-the-badge) ![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=vlzelen&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧩 Skills Developed
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | Focus |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Identity & Access Management | Microsoft Entra ID, Azure AD, Microsoft 365 Admin Center, account provisioning, access control                  |
+| Cloud & Infrastructure       | Azure, AWS (S3, ELB, Route 53), Microsoft 365, virtual machines, cloud workstation deployment                   |
+| Endpoint & Device Management | macOS, iOS, Windows 10/11, Intune, device imaging, onboarding, troubleshooting                                  |
+| Networking Fundamentals      | DNS, DHCP, TCP/IP, VPN configuration, IP routing concepts                                                       |
+| Security Operations & Labs   | Active Directory lab deployment, Splunk log analysis, CTF participation (NCL), defensive/offensive fundamentals |
+| Automation & Scripting       | PowerShell basics, Python, SQL, scripting for troubleshooting and system administration                         |
