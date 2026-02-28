@@ -8,8 +8,8 @@
 # 💻 Tech Stack:
 ![Cybersecurity](https://img.shields.io/badge/cybersecurity-%23FF2D20.svg?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-blue?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 <br>
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white) 
