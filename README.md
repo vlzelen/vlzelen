@@ -11,10 +11,11 @@
 ![Networking](https://img.shields.io/badge/Networking-orange?style=for-the-badge&logo=paloaltonetworks&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+<br>
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧩 Skills Developed
