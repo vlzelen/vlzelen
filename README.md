@@ -14,7 +14,7 @@
 <br>
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white) 
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white)
 
